@@ -9,15 +9,17 @@
 
     <!-- Fonts -->
     <link href="https://fonts.bunny.net/css2?family=Roboto:wght@400;600;700&display=swap" rel="stylesheet" defer>
-    @vite('resources/css/app.scss')
 
 
 </head>
 
 <body class="antialiased">
     <div id="app">
-        app here
+        app here 3
     </div>
+
+
+    @viteReactRefresh
     @vite('resources/js/app.ts')
 </body>
 

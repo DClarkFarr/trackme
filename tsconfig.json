@@ -1,0 +1,8 @@
+{
+    "include": ["resources/app/*"],
+    "compilerOptions": {
+        "target": "es5",
+        "jsx": "react",
+        "allowSyntheticDefaultImports": true
+    }
+}
